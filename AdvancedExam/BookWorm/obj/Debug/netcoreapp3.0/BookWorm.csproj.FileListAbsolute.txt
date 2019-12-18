@@ -1,0 +1,11 @@
+D:\AdvancedExam\BookWorm\bin\Debug\netcoreapp3.0\BookWorm.exe
+D:\AdvancedExam\BookWorm\bin\Debug\netcoreapp3.0\BookWorm.deps.json
+D:\AdvancedExam\BookWorm\bin\Debug\netcoreapp3.0\BookWorm.runtimeconfig.json
+D:\AdvancedExam\BookWorm\bin\Debug\netcoreapp3.0\BookWorm.runtimeconfig.dev.json
+D:\AdvancedExam\BookWorm\bin\Debug\netcoreapp3.0\BookWorm.dll
+D:\AdvancedExam\BookWorm\bin\Debug\netcoreapp3.0\BookWorm.pdb
+D:\AdvancedExam\BookWorm\obj\Debug\netcoreapp3.0\BookWorm.csprojAssemblyReference.cache
+D:\AdvancedExam\BookWorm\obj\Debug\netcoreapp3.0\BookWorm.AssemblyInfoInputs.cache
+D:\AdvancedExam\BookWorm\obj\Debug\netcoreapp3.0\BookWorm.AssemblyInfo.cs
+D:\AdvancedExam\BookWorm\obj\Debug\netcoreapp3.0\BookWorm.dll
+D:\AdvancedExam\BookWorm\obj\Debug\netcoreapp3.0\BookWorm.pdb

@@ -1,0 +1,11 @@
+D:\AdvancedExam\DatingApp\bin\Debug\netcoreapp3.0\DatingApp.exe
+D:\AdvancedExam\DatingApp\bin\Debug\netcoreapp3.0\DatingApp.deps.json
+D:\AdvancedExam\DatingApp\bin\Debug\netcoreapp3.0\DatingApp.runtimeconfig.json
+D:\AdvancedExam\DatingApp\bin\Debug\netcoreapp3.0\DatingApp.runtimeconfig.dev.json
+D:\AdvancedExam\DatingApp\bin\Debug\netcoreapp3.0\DatingApp.dll
+D:\AdvancedExam\DatingApp\bin\Debug\netcoreapp3.0\DatingApp.pdb
+D:\AdvancedExam\DatingApp\obj\Debug\netcoreapp3.0\DatingApp.csprojAssemblyReference.cache
+D:\AdvancedExam\DatingApp\obj\Debug\netcoreapp3.0\DatingApp.AssemblyInfoInputs.cache
+D:\AdvancedExam\DatingApp\obj\Debug\netcoreapp3.0\DatingApp.AssemblyInfo.cs
+D:\AdvancedExam\DatingApp\obj\Debug\netcoreapp3.0\DatingApp.dll
+D:\AdvancedExam\DatingApp\obj\Debug\netcoreapp3.0\DatingApp.pdb
